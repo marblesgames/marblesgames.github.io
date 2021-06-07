@@ -1,0 +1,51 @@
+#gamedev-name {
+    font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 40px;
+
+    text-align: center;
+    line-height: 36px;
+    margin-top: 30px
+}
+
+body {
+    background-color: #2A2A29;
+    color: #f0e7d5;
+    font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", 
+        Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #e8e8e8;
+    margin: 0 0 10px;
+    font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.wrapper {
+    margin: 0 25%
+}
+
+hr {
+    border: 0;
+    border-top: 1px dashed #565656
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.bold {
+    font-weight: bold
+}
+
+a {
+    color: #ffcc00;
+}
+
+a:hover {
+    color: red
+}
